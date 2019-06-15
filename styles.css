@@ -1,0 +1,24 @@
+.list-style {
+    list-style: none;
+  }
+
+  .border {
+    border-style: solid;
+    border-width: 3px;
+  }
+
+  .bold {
+    font-weight: bold;
+  }
+
+  .font-size {
+    font-size: 3rem;
+  }
+
+  .margin {
+    margin: 2rem;
+  }
+
+  .max-width {
+    max-width: 20rem;
+  }
